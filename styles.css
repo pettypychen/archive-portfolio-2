@@ -30,6 +30,30 @@ p {
   align-text: center;
 
 }
+/*Nav bar*/
+/* Add a black background color to the top navigation */
+.topnav {
+  overflow: hidden;
+  padding-right: 20px;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: right;
+  color: #000000;
+  text-align: center;
+  padding: 20px 20px 20px 20px;
+  text-decoration: none;
+  font-size: 0.8em;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  color: #1F8A70;
+}
+
+
+
 /*Social icons*/
 .icon-bar {
   position: fixed;
